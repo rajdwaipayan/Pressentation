@@ -1,0 +1,17 @@
+C:\Users\MEHEDI HASAN\source\repos\StockManagement\StockManagement\bin\Debug\StockManagement.exe.config
+C:\Users\MEHEDI HASAN\source\repos\StockManagement\StockManagement\bin\Debug\StockManagement.exe
+C:\Users\MEHEDI HASAN\source\repos\StockManagement\StockManagement\bin\Debug\StockManagement.pdb
+C:\Users\MEHEDI HASAN\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.Dashboard.resources
+C:\Users\MEHEDI HASAN\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+C:\Users\MEHEDI HASAN\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.cache
+C:\Users\MEHEDI HASAN\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\MEHEDI HASAN\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.exe
+C:\Users\MEHEDI HASAN\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.pdb
+C:\Users\MEHEDI HASAN\source\repos\StockManagement\StockManagement\bin\Debug\Guna.UI.dll
+C:\Users\MEHEDI HASAN\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.CopyComplete
+C:\Users\MEHEDI HASAN\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.csprojAssemblyReference.cache
+C:\Users\MEHEDI HASAN\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.Design.DashboardUserControl.resources
+C:\Users\MEHEDI HASAN\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.Design.ProductUserControl.resources
+C:\Users\MEHEDI HASAN\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.Design.CategoryUserControl.resources
+C:\Users\MEHEDI HASAN\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.Design.CustomerUserControl.resources
+C:\Users\MEHEDI HASAN\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.Design.SupplierUserControl.resources
